@@ -1,0 +1,918 @@
+2023-02-23 15:22:57,938 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:08:15,595 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:28:30,559 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:28:35,133 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:29:28,359 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:29:31,150 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:30:52,445 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:30:53,950 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:31:25,080 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:31:26,585 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:32:48,579 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:32:50,084 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:33:15,191 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:33:16,696 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:33:18,711 :INFO : test_flightBooking :Now on flight finder page
+2023-02-23 16:36:12,492 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:36:13,995 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:36:16,012 :INFO : test_flightBooking :Now on flight finder page
+2023-02-23 16:36:39,415 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:36:40,921 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:36:42,945 :INFO : test_flightBooking :Now on flight finder page
+2023-02-23 16:55:20,073 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:55:24,510 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:55:27,154 :INFO : test_flightBooking :Now on flight finder page
+2023-02-23 16:58:52,521 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:58:57,796 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:59:00,642 :INFO : test_flightBooking :Now on flight finder page
+2023-02-23 16:59:35,076 :INFO : test_flightBooking :Moving to login page
+2023-02-23 16:59:40,114 :INFO : test_flightBooking :switching driver to next page
+2023-02-23 16:59:43,027 :INFO : test_flightBooking :Now on flight finder page
+2023-02-24 13:57:17,513 :INFO : test_flightBooking :Pop-up encountered and closed
+2023-02-24 13:59:24,782 :INFO : test_flightBooking :Pop-up encountered and closed
+2023-02-24 14:09:15,630 :INFO : test_flightBooking :Pop-up encountered and closed
+2023-02-24 14:49:06,914 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:07:21,957 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:09:51,241 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:15:19,337 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:20:45,775 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:24:55,117 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:29:35,562 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:32:17,623 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:40:43,036 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 15:41:55,402 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:44:19,156 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 15:45:31,236 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:46:34,894 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 15:47:46,009 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:51:48,283 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 15:52:57,030 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:55:18,007 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 15:56:27,573 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:57:33,022 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 15:58:41,647 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 15:59:36,856 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:00:22,880 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:02:54,101 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:05:36,215 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:08:28,688 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:09:58,022 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:11:49,417 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:12:35,415 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:13:30,844 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:14:16,720 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:15:21,197 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:16:07,133 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:17:15,147 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:18:01,047 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:19:27,828 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:20:35,683 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:21:19,759 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:22:29,091 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:23:22,817 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:24:08,816 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:29:13,510 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:29:59,397 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:37:06,563 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:38:15,119 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:42:45,243 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:46:27,268 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:47:13,172 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:47:32,317 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:48:18,241 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:49:05,015 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:49:50,958 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:52:20,677 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:53:06,530 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:54:52,595 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:55:38,433 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 16:56:34,450 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 16:57:20,343 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:01:48,642 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:02:34,510 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:03:20,295 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:04:06,219 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:05:07,352 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:05:53,541 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:09:01,415 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:09:47,305 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:10:18,473 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:11:04,391 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:16:41,295 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:17:27,209 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:17:56,223 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:18:42,129 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:19:09,428 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:19:55,326 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:21:08,074 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:21:53,966 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:22:25,983 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:23:11,859 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:24:14,168 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:25:00,077 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:25:47,792 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:26:33,646 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:27:45,742 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:28:31,631 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:29:22,291 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:30:20,376 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:31:06,286 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:43:08,854 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:43:54,727 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:44:37,804 :INFO : test_flightBooking :No alt id detected
+2023-02-24 17:46:19,412 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:47:05,331 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:47:48,365 :INFO : test_flightBooking :No alt id detected
+2023-02-24 17:49:38,310 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:50:24,252 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:50:27,356 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-24 17:52:04,944 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:52:50,797 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:53:33,825 :INFO : test_flightBooking :No alt id detected
+2023-02-24 17:54:20,725 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 17:55:06,783 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 17:55:09,887 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-24 18:00:37,299 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 18:01:23,209 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 18:02:06,275 :INFO : test_flightBooking :No alt id detected
+2023-02-24 18:02:49,868 :INFO : test_flightBooking :No alt id detected
+2023-02-24 20:05:06,606 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 20:05:52,578 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 20:06:35,604 :INFO : test_flightBooking :No alt id detected
+2023-02-24 20:07:19,943 :INFO : test_flightBooking :No alt id detected
+2023-02-24 20:07:56,374 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 20:08:42,233 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 20:08:45,341 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-24 20:10:36,068 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 20:11:21,917 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 20:12:04,947 :INFO : test_flightBooking :No alt id detected
+2023-02-24 20:12:49,000 :INFO : test_flightBooking :No alt id detected
+2023-02-24 20:33:29,009 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 20:33:44,469 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 20:33:54,061 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 20:34:04,286 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-24 21:13:11,863 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:13:27,233 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:13:36,797 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 21:13:47,600 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-24 21:14:47,131 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:15:02,518 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:15:12,096 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 21:15:21,809 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-24 21:19:20,979 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:19:36,379 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:19:45,902 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 21:19:55,938 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:20:29,230 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:20:44,602 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:20:54,211 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 21:21:04,267 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:23:45,198 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:24:00,602 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:24:29,161 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:24:44,509 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:25:14,142 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 21:25:24,187 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:26:53,094 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:27:08,532 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:27:37,612 :INFO : test_flightBooking :No pop-up encountered
+2023-02-24 21:27:47,673 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:27:55,287 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:31:17,004 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:31:32,451 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:32:01,274 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-24 21:32:11,327 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:32:18,789 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:48:34,578 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:48:49,953 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:49:18,888 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-24 21:49:28,938 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:49:36,290 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:50:18,603 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:50:33,983 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:51:02,771 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-24 21:51:12,788 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:51:20,243 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:52:03,739 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:52:19,093 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:57:02,399 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 21:57:17,813 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 21:57:37,891 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 21:57:47,947 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:57:55,493 :INFO : test_flightBooking :No alt id detected
+2023-02-24 21:59:59,489 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:00:14,925 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:00:33,229 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:00:43,275 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:00:50,630 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:01:26,776 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:01:42,160 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:02:01,380 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:02:11,433 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:02:18,961 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:04:45,624 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:05:01,032 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:06:15,803 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:06:31,189 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:07:50,183 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:08:05,523 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:08:29,202 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:08:39,269 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:08:46,633 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:09:27,204 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:09:42,724 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:14:34,376 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:14:44,749 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:15:07,046 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:15:17,102 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:15:24,473 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:16:15,206 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:16:25,607 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:16:47,846 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:16:57,892 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:17:05,214 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:19:06,931 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:19:17,282 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:20:18,959 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:20:29,315 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:23:01,084 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:23:11,470 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:23:41,681 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-24 22:23:51,746 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:23:59,238 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:24:50,473 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:25:11,359 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:25:21,890 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:25:47,142 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:25:57,189 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:26:04,542 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:32:51,929 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:33:02,306 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:33:40,595 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:33:50,626 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:33:58,008 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:34:49,553 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:34:59,938 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:36:18,850 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:36:29,290 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:38:02,360 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:38:12,719 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:39:35,729 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:39:46,169 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:41:11,990 :INFO : test_flightBooking :No warning encountered
+2023-02-24 22:41:22,414 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-24 22:41:32,466 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:42:43,141 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:42:53,529 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-24 22:43:03,576 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:44:45,219 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:45:58,190 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:46:08,569 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:46:31,941 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:46:41,994 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:46:49,645 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:49:27,708 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:49:38,035 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:51:26,131 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:51:36,547 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:52:00,487 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-24 22:52:10,533 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:52:17,931 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:53:02,139 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-24 22:53:12,576 :INFO : test_flightBooking :No pop-up detected
+2023-02-24 22:53:42,793 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-24 22:53:52,829 :INFO : test_flightBooking :No alt id detected
+2023-02-24 22:54:00,360 :INFO : test_flightBooking :No alt id detected
+2023-02-25 10:32:01,013 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 10:32:11,440 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 10:32:35,204 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-25 10:32:45,222 :INFO : test_flightBooking :No alt id detected
+2023-02-25 10:32:52,533 :INFO : test_flightBooking :No alt id detected
+2023-02-25 10:33:00,466 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 10:33:00,607 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 12:23:58,942 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 12:24:09,393 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 12:26:35,834 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 12:26:46,295 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 12:27:11,055 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-25 12:27:21,081 :INFO : test_flightBooking :No alt id detected
+2023-02-25 12:27:28,590 :INFO : test_flightBooking :No alt id detected
+2023-02-25 12:27:36,897 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 12:27:37,096 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 12:28:36,238 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 12:28:46,702 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 12:32:12,811 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 12:32:23,236 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 13:55:52,313 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 13:56:02,688 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 13:56:09,703 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 13:56:19,725 :INFO : test_flightBooking :No alt id detected
+2023-02-25 13:57:06,402 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 13:57:16,789 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 13:57:23,845 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 13:57:33,874 :INFO : test_flightBooking :No alt id detected
+2023-02-25 13:57:49,167 :INFO : test_flightBooking :No alt id detected
+2023-02-25 13:57:57,964 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 13:57:58,050 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 14:02:26,206 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:02:36,557 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 14:02:44,568 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:02:54,612 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:05:17,808 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:06:38,126 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:06:48,471 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 14:06:56,699 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:07:21,313 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:07:28,947 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:07:36,634 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 14:07:36,707 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 14:09:34,604 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:09:46,840 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:09:56,912 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:11:30,100 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:11:41,628 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:11:51,656 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:12:48,337 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:12:58,700 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 14:13:06,731 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:13:23,388 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-25 14:13:23,480 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-25 14:13:57,948 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:14:08,291 :INFO : test_flightBooking :No pop-up detected
+2023-02-25 14:14:16,421 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:14:40,175 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:14:47,855 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:14:57,203 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 14:14:57,286 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 14:21:46,260 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:21:57,735 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:22:07,781 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:26:17,269 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:26:28,859 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:26:38,940 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:32:44,880 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:32:56,394 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:33:06,444 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:33:43,236 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:33:55,036 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:34:23,692 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:35:11,524 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:35:23,103 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:35:33,119 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:36:41,946 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:36:53,600 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:37:03,625 :INFO : test_flightBooking :Page loading normally
+2023-02-25 14:37:10,638 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:37:27,122 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:37:35,234 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 14:37:35,311 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 14:39:45,723 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 14:39:56,145 :INFO : test_flightBooking :Page loading normally
+2023-02-25 14:40:04,259 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 14:40:26,380 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:40:34,170 :INFO : test_flightBooking :No alt id detected
+2023-02-25 14:40:42,361 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 14:40:42,442 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 15:02:25,522 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 15:02:35,899 :INFO : test_flightBooking :Page loading normally
+2023-02-25 15:02:43,917 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 15:03:06,283 :INFO : test_flightBooking :No alt id detected
+2023-02-25 15:04:05,790 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 15:04:16,162 :INFO : test_flightBooking :Page loading normally
+2023-02-25 15:04:25,232 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 15:04:44,152 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-25 15:06:48,801 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 15:06:59,212 :INFO : test_flightBooking :Page loading normally
+2023-02-25 15:07:08,283 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 15:07:29,017 :INFO : test_flightBooking :No alt id detected
+2023-02-25 15:08:28,040 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 15:08:38,430 :INFO : test_flightBooking :Page loading normally
+2023-02-25 15:08:49,444 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 15:09:10,055 :INFO : test_flightBooking :No alt id detected
+2023-02-25 15:11:02,867 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 15:11:13,308 :INFO : test_flightBooking :Page loading normally
+2023-02-25 15:11:23,370 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 15:11:30,428 :INFO : test_flightBooking :No alt id detected
+2023-02-25 15:11:44,865 :INFO : test_flightBooking :No alt id detected
+2023-02-25 15:11:52,838 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 15:11:52,957 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 15:21:52,784 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 15:22:03,139 :INFO : test_flightBooking :Page loading normally
+2023-02-25 15:22:13,228 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 15:22:20,246 :INFO : test_flightBooking :No alt id detected
+2023-02-25 15:22:35,879 :INFO : test_flightBooking :No alt id detected
+2023-02-25 15:22:43,716 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 15:22:43,856 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 16:03:59,311 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:04:09,769 :INFO : test_flightBooking :Page loading normally
+2023-02-25 16:04:19,951 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 16:04:26,973 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:06:26,852 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:06:37,316 :INFO : test_flightBooking :Page loading normally
+2023-02-25 16:06:47,334 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 16:07:09,514 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:07:16,953 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:07:25,338 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 16:07:25,411 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 16:07:54,493 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:08:04,854 :INFO : test_flightBooking :Page loading normally
+2023-02-25 16:08:14,865 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 16:08:37,293 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:08:45,204 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:08:53,893 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 16:08:53,966 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 16:11:16,429 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:11:26,820 :INFO : test_flightBooking :Page loading normally
+2023-02-25 16:11:36,845 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 16:11:59,271 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:12:06,990 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:12:14,741 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 16:12:14,812 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 16:43:24,673 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:43:35,019 :INFO : test_flightBooking :Page loading normally
+2023-02-25 16:43:45,037 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 16:43:55,128 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:45:56,280 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:46:06,658 :INFO : test_flightBooking :Page loading normally
+2023-02-25 16:46:16,665 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 16:46:36,814 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:46:56,629 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:47:06,992 :INFO : test_flightBooking :Page loading normally
+2023-02-25 16:47:17,089 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 16:47:27,100 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:48:19,536 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:48:29,874 :INFO : test_flightBooking :Page loading normally
+2023-02-25 16:48:39,939 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 16:48:49,990 :INFO : test_flightBooking :No alt id detected
+2023-02-25 16:51:31,504 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:51:36,076 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 16:53:11,970 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:53:18,338 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 16:54:48,127 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:54:54,727 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 16:57:33,877 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 16:57:40,235 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:01:01,436 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:01:07,844 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:03:36,454 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:03:42,813 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:04:12,685 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-25 17:04:22,752 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:04:30,601 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:04:40,684 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 17:04:40,758 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 17:06:27,800 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:06:34,159 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:07:04,934 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 17:07:07,968 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-25 17:08:53,630 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:09:00,001 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:09:27,853 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-25 17:09:37,901 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:09:50,688 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:09:59,713 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 17:09:59,792 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 17:10:45,126 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:10:51,526 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:11:22,670 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 17:11:25,704 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-25 17:13:45,975 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:13:52,303 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:14:22,125 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-25 17:14:32,167 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:14:43,592 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:14:51,726 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 17:14:51,858 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 17:16:19,876 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:16:26,351 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:16:56,294 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 17:16:59,318 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-25 17:18:04,131 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:18:10,610 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:18:48,192 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:18:57,731 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:19:06,003 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 17:19:06,049 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 17:19:50,871 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:19:57,215 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:20:27,158 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 17:20:30,194 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-25 17:22:39,595 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:22:46,115 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:23:17,003 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-25 17:23:20,038 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-25 17:24:00,710 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:24:07,106 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:24:35,328 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-25 17:24:45,346 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:24:57,231 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:25:04,137 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 17:25:04,217 :INFO : test_flightBooking :Entering month/day/year
+2023-02-25 17:25:40,897 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-25 17:25:47,243 :INFO : test_flightBooking :Waiting for page to load
+2023-02-25 17:26:16,694 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-25 17:26:26,710 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:26:38,583 :INFO : test_flightBooking :No alt id detected
+2023-02-25 17:26:45,879 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-25 17:26:45,998 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 11:49:07,115 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 11:49:13,650 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 11:49:42,253 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 11:49:52,310 :INFO : test_flightBooking :No alt id detected
+2023-02-26 11:50:03,744 :INFO : test_flightBooking :No alt id detected
+2023-02-26 11:50:11,919 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 11:50:12,144 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 12:07:20,215 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:07:26,650 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:07:54,910 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 12:08:04,953 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:08:16,336 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:08:24,495 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 12:08:24,620 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 12:09:33,758 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:09:40,269 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:10:07,852 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 12:10:17,903 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:10:29,339 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:10:38,210 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 12:10:38,404 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 12:13:50,186 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:13:56,674 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:14:27,943 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 12:14:30,975 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 12:16:19,850 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:16:26,284 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:16:56,950 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 12:16:59,985 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 12:18:00,714 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:18:07,198 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:18:42,241 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 12:18:52,714 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:19:05,829 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:19:35,770 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:19:42,316 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:20:13,395 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 12:20:16,429 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 12:21:00,536 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:21:07,257 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:21:37,122 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 12:21:40,156 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 12:23:42,126 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:23:48,614 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:24:20,237 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 12:24:30,357 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:24:34,529 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 12:26:09,451 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:26:15,919 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:26:46,506 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 12:26:56,620 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 12:28:52,481 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:28:58,901 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:29:26,626 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 12:29:29,993 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:29:37,076 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:29:42,257 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 12:29:42,408 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 12:34:43,871 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:34:50,306 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:35:18,431 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 12:35:21,738 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:35:29,044 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:35:35,340 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 12:35:35,459 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 12:36:53,433 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:36:59,915 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:37:31,033 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 12:37:41,189 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 12:37:52,444 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 12:39:50,906 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:39:57,481 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:40:27,214 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 12:40:30,541 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:40:37,596 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:40:46,153 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 12:40:46,276 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 12:43:17,787 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 12:43:24,307 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 12:43:51,239 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 12:43:54,497 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:44:02,261 :INFO : test_flightBooking :No alt id detected
+2023-02-26 12:44:09,995 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 12:44:10,225 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 13:04:04,155 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:04:10,588 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:04:39,327 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 13:04:42,675 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:04:48,982 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:04:57,100 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 13:04:57,254 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 13:05:33,913 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:05:40,348 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:06:11,377 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 13:06:21,521 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 13:06:32,720 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 13:07:15,099 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:07:21,563 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:07:51,856 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 13:08:01,975 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 13:08:13,205 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 13:08:49,501 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:08:55,942 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:09:23,655 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 13:09:27,045 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:09:33,756 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:09:40,874 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 13:09:41,010 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 13:17:36,294 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:17:42,958 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:18:09,951 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 13:18:13,315 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:18:19,660 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:18:26,996 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 13:18:27,187 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 13:19:04,306 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:19:10,821 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:19:39,595 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 13:19:42,926 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:19:49,916 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:19:57,479 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 13:19:57,696 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 13:24:30,268 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:24:36,782 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:25:06,268 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 13:25:09,578 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:25:16,110 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:25:23,457 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 13:25:23,658 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 13:32:12,526 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:32:18,988 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:32:46,523 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 13:32:50,028 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:32:56,535 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:33:03,734 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 13:33:03,947 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 13:36:03,456 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:36:09,879 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:36:46,287 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 13:36:49,935 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:36:57,760 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:37:06,095 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 13:37:06,285 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 13:38:09,902 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:38:16,360 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:38:47,377 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 13:38:57,507 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 13:39:08,723 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 13:39:34,197 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 13:39:40,719 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 13:40:08,747 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 13:40:13,177 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:40:20,636 :INFO : test_flightBooking :No alt id detected
+2023-02-26 13:40:29,097 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 13:40:29,351 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 17:59:15,657 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 17:59:22,088 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 17:59:53,402 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 18:00:03,514 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 18:00:14,913 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 19:21:29,095 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 19:21:35,559 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 19:22:06,157 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 19:22:09,515 :INFO : test_flightBooking :No alt id detected
+2023-02-26 19:22:16,264 :INFO : test_flightBooking :No alt id detected
+2023-02-26 19:22:20,358 :INFO : test_flightBooking :Closing upgrade offer
+2023-02-26 19:22:26,555 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 19:22:26,761 :INFO : test_flightBooking :Entering month/day/year
+2023-02-26 21:27:21,444 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 21:27:27,822 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 21:27:58,378 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-26 21:28:08,513 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 21:28:19,702 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-26 21:28:30,726 :INFO : test_flightBooking :Nothing to close
+2023-02-26 21:32:53,962 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-26 21:33:00,398 :INFO : test_flightBooking :Waiting for page to load
+2023-02-26 21:33:27,351 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-26 21:33:30,683 :INFO : test_flightBooking :No alt id detected
+2023-02-26 21:33:37,899 :INFO : test_flightBooking :No alt id detected
+2023-02-26 21:33:42,001 :INFO : test_flightBooking :Closing upgrade offer
+2023-02-26 21:33:47,057 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-26 21:33:47,174 :INFO : test_flightBooking :Entering month/day/year
+2023-02-27 14:22:23,645 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-27 14:22:30,085 :INFO : test_flightBooking :Waiting for page to load
+2023-02-27 14:23:00,438 :INFO : test_flightBooking :No tool-tip encountered
+2023-02-27 14:23:10,537 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-27 14:23:21,719 :INFO : test_flightBooking :Alt CSS id detected
+2023-02-27 14:23:32,864 :INFO : test_flightBooking :Alt close option detected
+2023-02-27 14:25:28,489 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-02-27 14:25:34,982 :INFO : test_flightBooking :Waiting for page to load
+2023-02-27 14:26:04,153 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-02-27 14:26:08,055 :INFO : test_flightBooking :No alt id detected
+2023-02-27 14:26:14,639 :INFO : test_flightBooking :No alt id detected
+2023-02-27 14:26:18,730 :INFO : test_flightBooking :Closing upgrade offer
+2023-02-27 14:26:23,888 :INFO : test_flightBooking :Entering firstname/lastname
+2023-02-27 14:26:24,048 :INFO : test_flightBooking :Entering month/day/year
+2023-03-01 19:24:42,687 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:24:49,193 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:25:19,818 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:25:29,932 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:25:41,432 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:25:52,548 :INFO : test_flightBooking :Alt close option detected
+2023-03-01 19:27:17,816 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:27:24,275 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:27:54,007 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-01 19:27:57,375 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:28:04,453 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:28:08,537 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-01 19:28:13,373 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-01 19:28:13,480 :INFO : test_flightBooking :Entering month/day/year
+2023-03-01 19:29:07,697 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:29:14,150 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:29:44,522 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:29:54,657 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:30:05,850 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:30:16,983 :INFO : test_flightBooking :Alt close option detected
+2023-03-01 19:30:47,335 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:30:53,822 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:31:30,793 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:31:34,256 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:31:42,325 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:31:46,411 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-01 19:31:51,648 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-01 19:31:51,805 :INFO : test_flightBooking :Entering month/day/year
+2023-03-01 19:33:42,087 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:33:48,559 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:34:19,424 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:34:29,585 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:34:40,746 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:34:51,861 :INFO : test_flightBooking :Alt close option detected
+2023-03-01 19:35:45,927 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:35:52,368 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:36:23,476 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:36:33,622 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:36:44,862 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:36:55,940 :INFO : test_flightBooking :Alt close option detected
+2023-03-01 19:38:01,304 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:38:07,880 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:38:37,073 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-01 19:38:40,427 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:38:47,790 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:38:51,871 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-01 19:38:58,950 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-01 19:38:59,058 :INFO : test_flightBooking :Entering month/day/year
+2023-03-01 19:39:50,239 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:39:56,689 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:40:27,294 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:40:37,421 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:40:48,638 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:40:59,774 :INFO : test_flightBooking :Alt close option detected
+2023-03-01 19:41:33,938 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:41:40,371 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:42:18,838 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:42:22,293 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:42:29,702 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:42:33,791 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-01 19:42:40,600 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-01 19:42:40,748 :INFO : test_flightBooking :Entering month/day/year
+2023-03-01 19:43:49,788 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:43:56,483 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:44:26,568 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:44:36,680 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:44:47,891 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:44:59,013 :INFO : test_flightBooking :Alt close option detected
+2023-03-01 19:47:40,163 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:47:46,602 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:48:19,208 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-01 19:48:29,317 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:48:40,571 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-01 19:48:51,701 :INFO : test_flightBooking :Alt close option detected
+2023-03-01 19:51:18,902 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-01 19:51:25,370 :INFO : test_flightBooking :Waiting for page to load
+2023-03-01 19:51:55,519 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-01 19:51:59,043 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:52:07,951 :INFO : test_flightBooking :No alt id detected
+2023-03-01 19:52:12,035 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-01 19:52:19,410 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-01 19:52:19,582 :INFO : test_flightBooking :Entering month/day/year
+2023-03-02 09:23:26,090 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 09:23:32,438 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 09:24:03,274 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 09:24:13,429 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 09:24:24,622 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 09:24:35,706 :INFO : test_flightBooking :Alt close option detected
+2023-03-02 10:22:05,623 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 10:22:12,044 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 10:22:41,919 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 10:23:29,921 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 10:23:36,289 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 10:24:06,115 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-02 10:24:09,451 :INFO : test_flightBooking :No alt id detected
+2023-03-02 10:24:16,398 :INFO : test_flightBooking :No alt id detected
+2023-03-02 10:24:20,480 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-02 10:26:03,688 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 10:26:10,061 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 10:26:38,627 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-02 10:26:42,139 :INFO : test_flightBooking :No alt id detected
+2023-03-02 10:26:48,930 :INFO : test_flightBooking :No alt id detected
+2023-03-02 10:26:53,033 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-02 10:26:58,523 :INFO : test_flightBooking :Going to guest checkout
+2023-03-02 10:26:58,524 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-02 10:26:58,645 :INFO : test_flightBooking :Entering month/day/year
+2023-03-02 10:52:52,695 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 10:52:59,147 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 10:53:28,491 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-02 10:53:31,958 :INFO : test_flightBooking :No alt id detected
+2023-03-02 10:53:41,439 :INFO : test_flightBooking :No alt id detected
+2023-03-02 10:53:45,502 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-02 10:53:50,763 :INFO : test_flightBooking :Going to guest checkout
+2023-03-02 10:53:50,765 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-02 10:53:50,886 :INFO : test_flightBooking :Entering month/day/year
+2023-03-02 10:58:09,520 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 10:58:15,916 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 10:58:45,489 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 10:58:55,587 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 10:59:06,787 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 10:59:17,920 :INFO : test_flightBooking :Alt close option detected
+2023-03-02 11:01:27,591 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 11:01:33,940 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 11:02:04,841 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 11:02:14,989 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 11:02:26,143 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 11:02:37,237 :INFO : test_flightBooking :Alt close option detected
+2023-03-02 11:05:48,626 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 11:05:54,961 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 11:06:23,831 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-02 11:06:27,177 :INFO : test_flightBooking :No alt id detected
+2023-03-02 11:06:33,876 :INFO : test_flightBooking :No alt id detected
+2023-03-02 11:06:37,957 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-02 11:06:44,027 :INFO : test_flightBooking :Going to guest checkout
+2023-03-02 11:06:44,034 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-02 11:06:44,146 :INFO : test_flightBooking :Entering month/day/year
+2023-03-02 11:48:32,071 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 11:48:38,434 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 11:49:14,386 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 11:49:17,825 :INFO : test_flightBooking :No alt id detected
+2023-03-02 11:49:29,178 :INFO : test_flightBooking :No alt id detected
+2023-03-02 11:49:33,232 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-02 11:49:39,471 :INFO : test_flightBooking :Going to guest checkout
+2023-03-02 11:49:39,472 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-02 11:49:39,550 :INFO : test_flightBooking :Entering month/day/year
+2023-03-02 12:12:18,977 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 12:12:25,339 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 12:12:56,512 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 12:13:06,629 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 12:13:17,784 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 12:13:28,911 :INFO : test_flightBooking :Alt close option detected
+2023-03-02 12:25:24,645 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 12:25:31,048 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 12:26:01,955 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 12:26:12,107 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 12:26:23,282 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 12:26:34,381 :INFO : test_flightBooking :Alt close option detected
+2023-03-02 12:28:11,794 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 12:28:18,154 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 12:28:50,355 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 12:29:00,459 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 12:29:11,674 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 12:29:22,770 :INFO : test_flightBooking :Alt close option detected
+2023-03-02 12:29:28,916 :INFO : test_flightBooking :Going to guest checkout
+2023-03-02 12:29:28,918 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-02 12:29:28,991 :INFO : test_flightBooking :Entering month/day/year
+2023-03-02 19:48:40,486 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 19:48:47,243 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 19:49:17,265 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 19:49:27,393 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 19:49:38,597 :INFO : test_flightBooking :Alt CSS id detected
+2023-03-02 19:49:49,747 :INFO : test_flightBooking :Alt close option detected
+2023-03-02 19:49:57,000 :INFO : test_flightBooking :Going to guest checkout
+2023-03-02 19:49:57,003 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-02 19:49:57,202 :INFO : test_flightBooking :Entering month/day/year
+2023-03-02 19:49:59,922 :INFO : test_flightBooking :Entering gender
+2023-03-02 19:50:00,012 :INFO : test_flightBooking :Entering Country/State
+2023-03-02 19:50:40,226 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 19:50:53,616 :INFO : test_flightBooking :Page loading normally
+2023-03-02 19:51:00,651 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-02 19:52:02,084 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-02 19:52:08,843 :INFO : test_flightBooking :Waiting for page to load
+2023-03-02 19:52:38,213 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-02 19:52:41,761 :INFO : test_flightBooking :No alt id detected
+2023-03-02 19:52:48,995 :INFO : test_flightBooking :No alt id detected
+2023-03-02 19:52:53,066 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-02 19:53:06,519 :INFO : test_flightBooking :Alt guest button detected
+2023-03-02 19:53:06,525 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-02 19:53:07,006 :INFO : test_flightBooking :Entering month/day/year
+2023-03-02 19:53:09,617 :INFO : test_flightBooking :Entering gender
+2023-03-02 19:53:09,708 :INFO : test_flightBooking :Entering Country/State
+2023-03-03 19:33:31,727 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-03 19:33:38,114 :INFO : test_flightBooking :Waiting for page to load
+2023-03-03 19:34:08,914 :INFO : test_flightBooking :No tool-tip encountered
+2023-03-03 19:35:26,636 :INFO : test_flightBooking :Cookie warning encountered and closed
+2023-03-03 19:35:33,026 :INFO : test_flightBooking :Waiting for page to load
+2023-03-03 19:36:00,204 :INFO : test_flightBooking :Tool-tip encountered and closed
+2023-03-03 19:36:03,590 :INFO : test_flightBooking :No alt id detected
+2023-03-03 19:36:10,004 :INFO : test_flightBooking :No alt id detected
+2023-03-03 19:36:14,087 :INFO : test_flightBooking :Closing upgrade offer
+2023-03-03 19:36:26,489 :INFO : test_flightBooking :Alt guest button detected
+2023-03-03 19:36:26,491 :INFO : test_flightBooking :Entering firstname/lastname
+2023-03-03 19:36:26,565 :INFO : test_flightBooking :Entering month/day/year
+2023-03-03 19:36:29,005 :INFO : test_flightBooking :Entering gender
+2023-03-03 19:36:29,082 :INFO : test_flightBooking :Entering Country/State
